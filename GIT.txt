@@ -1,0 +1,14 @@
+HOW TO INSTALL GIT:
+---->sudo apt-get update
+---->sudo apt-get install git
+---->sudo git clone repository URL
+---->cat>>filename(create a file)
+---->git branch(check branchs)
+---->git checkout branch name
+---->git commit -m "message"
+---->git push -u git repository URL(refresh the git repository URL)
+merge:
+---->git branch
+---->git checkout branch name(new branchname)
+---->git merge old branchname new branchname
+---->git push -u git repository URL
